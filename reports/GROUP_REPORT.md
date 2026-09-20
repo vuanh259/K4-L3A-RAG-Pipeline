@@ -7,7 +7,7 @@
 * **Khóa học:** K4 AI Engineer / Advanced RAG
 * **Nhóm:** L3A
 * **Đề tài:** Xây dựng hệ thống RAG Pipeline hỗ trợ tra cứu tiêu chí chấm điểm và hướng dẫn viết IELTS Writing (Task 1 & Task 2)
-* **Kho lưu trữ (Repository):** [K4-L3A-RAG-Pipeline](https://github.com/duynguy3n2916/K4-L3A-RAG-Pipeline-NguyenThanhDuy-2A202602804)
+* **Kho lưu trữ (Repository):** [K4-L3A-RAG-Pipeline](https://github.com/vuanh259/K4-L3A-RAG-Pipeline)
 * **Ngày hoàn thành:** 20/09/2026
 
 ---
