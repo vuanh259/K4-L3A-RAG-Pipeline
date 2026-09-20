@@ -115,8 +115,4 @@ Hệ thống vượt qua **20/20 bài kiểm thử tự động** đạt tỷ l�
 
 ---
 
-### 7. DANH SÁCH BÁO CÁO CÁ NHÂN ĐÍNH KÈM
-* [Báo cáo cá nhân — Nguyễn Thành Duy (2A202602804)](group_project/individual/2A202602804-NguyenThanhDuy.md)
-* [Báo cáo cá nhân — Trương Việt Anh (2A202602444)](group_project/individual/2A202602444-TruongVietAnh.md)
-* [Báo cáo cá nhân — Nguyễn Vũ Anh (2A202602502)](group_project/individual/2A202602502-NguyenVuAnh.md)
-* [Báo cáo cá nhân — Phạm Quang Đạt (2A202602704)](group_project/individual/2A202602704-PhamQuangDat.md)
+
